@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kablog.github.io/memo/20190415/</loc>
+    <lastmod>2019-04-15T22:30:34+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kablog.github.io/memo/20190412/</loc>
     <lastmod>2019-04-12T22:30:34+09:00</lastmod>
   </url>
@@ -49,7 +54,7 @@
   
   <url>
     <loc>https://kablog.github.io/</loc>
-    <lastmod>2019-04-12T22:30:34+09:00</lastmod>
+    <lastmod>2019-04-15T22:30:34+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -60,7 +65,7 @@
   
   <url>
     <loc>https://kablog.github.io/memo/</loc>
-    <lastmod>2019-04-12T22:30:34+09:00</lastmod>
+    <lastmod>2019-04-15T22:30:34+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -71,13 +76,13 @@
   
   <url>
     <loc>https://kablog.github.io/tags/%E3%83%A1%E3%83%A2/</loc>
-    <lastmod>2019-04-12T22:30:34+09:00</lastmod>
+    <lastmod>2019-04-15T22:30:34+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kablog.github.io/categories/%E6%A0%AA/</loc>
-    <lastmod>2019-04-12T22:30:34+09:00</lastmod>
+    <lastmod>2019-04-15T22:30:34+09:00</lastmod>
     <priority>0</priority>
   </url>
   
